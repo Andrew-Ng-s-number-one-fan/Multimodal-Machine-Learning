@@ -8,8 +8,8 @@
 |#|Topics|Readings|
 |:---:|:---:|:---:|
 |**Lecture 01<br>Course introduction**<br>[[Video]()] [[Slides]()]|Research and technical challenges<br>Course syllabus and requirements|None|
-|Lecture 02<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
-|Lecture 03<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|**Lecture 02<br>Multimodal applications and datasets**<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|**Lecture 03<br>Basic concepts: neural networks**<br>[[Video]()] [[Slides]()]|Language, visual and acoustic<br>Loss functions and neural networks|Baltrusaitis et al., ["Multimodal Learning"]()<br>Bengio et al., ["Representation Learning"]()|
 |Lecture 04<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
 |Lecture 05<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
 |Lecture 06<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
