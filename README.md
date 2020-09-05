@@ -1,4 +1,4 @@
-# MultiModal Machine Learning
+# Multimodal Machine Learning
 
 - **Course Website:** https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
 - **Instructor:** [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/)
@@ -8,3 +8,26 @@
 |#|Topics|Readings|
 |:---:|:---:|:---:|
 |**Lecture 01<br>Course introduction**<br>[[Video]()] [[Slides]()]|Research and technical challenges<br>Course syllabus and requirements|None|
+|Lecture 02<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 03<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 04<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 05<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 06<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 07<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 08<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 09<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 10<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 11<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 12<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 13<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 14<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 15<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 16<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 17<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 18<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 19<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 20<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 21<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 22<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 23<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
+|Lecture 24<br>Multimodal applications and datasets<br>[[Video]()] [[Slides]()]|Research tasks and datasets<br>Team projects|None|
