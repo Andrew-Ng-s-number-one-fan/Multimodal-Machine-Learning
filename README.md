@@ -6,5 +6,5 @@
 ## Course Schedule (Fall 2020)
 
 |#|Topics|Lectures|Readings|
-|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |Lecture 01<br>Course introduction<br>[[Video]()|[Slides]()]|Research and technical challenges<br>Course syllabus and requirements|None|
