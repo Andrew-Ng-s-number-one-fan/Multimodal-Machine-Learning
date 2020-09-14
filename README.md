@@ -7,26 +7,26 @@
 
 |#|Topics|Readings|
 |:---:|:---:|:---:|
-|**Lecture 01<br>Course Introduction**<br>[[Video](https://www.youtube.com/watch?v=VIq5r7mCAyw)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/keg9wx5i4nk255)]|Research and technical challenges<br>Course syllabus and requirements|None|
-|**Lecture 02<br>Multimodal Applications and Datasets**<br>[[Video](https://www.youtube.com/watch?v=fBYu8I52nVM)] [[Slides](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)]|Research tasks and datasets<br>Team projects|None|
-|**Lecture 03<br>Basic Concepts: Neural Networks**<br>[[Video]()] [[Slides]()]|Language, visual and acoustic<br>Loss functions and neural networks|[Multimodal Learning]()<br>[Representation Learning]()|
-|**Lecture 04<br>Basic Concepts: Network Optimization**<br>[[Video]()] [[Slides]()]|Gradients and backpropagation<br>Practical deep model optimization|None|
-|**Lecture 05<br>Visual Unimodal Representations**<br>[[Video]()] [[Slides]()]|Convolutional kernels and CNNs<br>Residual network and skip connection|None|
-|**Lecture 06<br>Language Unimodal Representations**<br>[[Video]()] [[Slides]()]|Gated networks and LSTM<br>Backpropagation Through Time|None|
-|**Lecture 07<br>Multimodal Representation Learning**<br>[[Video]()] [[Slides]()]|Multimodal auto-encoders<br>Multimodal joint representations|None|
-|**Lecture 08<br>Coordinated Representations**<br>[[Video]()] [[Slides]()]|Deep canonical correlation analysis<br>Non-negative matrix factorization|None|
-|**Lecture 09<br>Multimodal Alignment**<br>[[Video]()] [[Slides]()]|Explicit - dynamic time warping<br>Implicit - attention models|None|
-|**Lecture 10<br>Structured Representations**<br>[[Video]()] [[Slides]()]|Module networks<br>Tree-based and stack models|None|
-|**Lecture 11<br>Alignment and Representation**<br>[[Video]()] [[Slides]()]|Multi-head attention<br>Multimodal transformers|None|
-|**Lecture 12<br>Probabilistic Graphical Models**<br>[[Video]()] [[Slides]()]|Dynamic Bayesian networks<br>Coupled and factor HMMs|None|
-|**Lecture 13<br>Discriminative Graphical Models**<br>[[Video]()] [[Slides]()]|Conditional random fields<br>Continuous and fully-connected<br>CRFs|None|
-|**Lecture 14<br>Neural Generative Models**<br>[[Video]()] [[Slides]()]|Variational Auto-Encoder<br>Generative Adversarial Networks|None|
-|**Lecture 15<br>Reinforcement Learning**<br>[[Video]()] [[Slides]()]|Markov decision process<br>Q learning and policy gradients|None|
-|**Lecture 16<br>Multimodal RL**<br>[[Video]()] [[Slides]()]|Deep Q learning<br>Multimodal applications|None|
-|**Lecture 17<br>Fusion and Co-Learning**<br>[[Video]()] [[Slides]()]|Multi-kernel learning and fusion<br>Few shot learning and co-learning|None|
-|**Lecture 18<br>New Research Directions**<br>[[Video]()] [[Slides]()]|Recent approaches in multimodal ML|None|
-|**Lecture 19<br>Embodied Language Grounding**<br>[[Video]()] [[Slides]()]|Connecting language to action<br>Guest lecture by Yonatan Bisk|None|
-|**Lecture 20<br>Multi-Lingual Representations**<br>[[Video]()] [[Slides]()]|Tentative topic<br>Guest lecture, to be confirmed|None|
-|**Lecture 21<br>Learning to Connect Text and Images**<br>[[Video]()] [[Slides]()]|Discourse approaches, text & images<br>Guest lecture by Malihe Alikhani|None|
-|**Lecture 22<br>Bias and Fairness**<br>[[Video]()] [[Slides]()]|Computational ethics<br>Guest lecture by Yulia Tsvetkov|None|
+|**Lecture - 01:<br>Course Introduction**<br>[[Video](https://www.youtube.com/watch?v=VIq5r7mCAyw)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/keg9wx5i4nk255)]|Research and technical challenges<br>Course syllabus and requirements|None|
+|**Lecture - 02:<br>Multimodal Applications and Datasets**<br>[[Video](https://www.youtube.com/watch?v=fBYu8I52nVM)] [[Slides](https://cmu-multicomp-lab.github.io/mmml-course/fall2020/schedule/)]|Research tasks and datasets<br>Team projects|None|
+|**Lecture - 03:<br>Basic Concepts: Neural Networks**<br>[[Video]()] [[Slides]()]|Language, visual and acoustic<br>Loss functions and neural networks|[Multimodal Learning]()<br>[Representation Learning]()|
+|**Lecture - 04:<br>Basic Concepts: Network Optimization**<br>[[Video]()] [[Slides]()]|Gradients and backpropagation<br>Practical deep model optimization|None|
+|**Lecture - 05:<br>Visual Unimodal Representations**<br>[[Video]()] [[Slides]()]|Convolutional kernels and CNNs<br>Residual network and skip connection|None|
+|**Lecture - 06:<br>Language Unimodal Representations**<br>[[Video]()] [[Slides]()]|Gated networks and LSTM<br>Backpropagation Through Time|None|
+|**Lecture - 07:<br>Multimodal Representation Learning**<br>[[Video]()] [[Slides]()]|Multimodal auto-encoders<br>Multimodal joint representations|None|
+|**Lecture - 08:<br>Coordinated Representations**<br>[[Video]()] [[Slides]()]|Deep canonical correlation analysis<br>Non-negative matrix factorization|None|
+|**Lecture - 09:<br>Multimodal Alignment**<br>[[Video]()] [[Slides]()]|Explicit - dynamic time warping<br>Implicit - attention models|None|
+|**Lecture - 10:<br>Structured Representations**<br>[[Video]()] [[Slides]()]|Module networks<br>Tree-based and stack models|None|
+|**Lecture - 11:<br>Alignment and Representation**<br>[[Video]()] [[Slides]()]|Multi-head attention<br>Multimodal transformers|None|
+|**Lecture - 12:<br>Probabilistic Graphical Models**<br>[[Video]()] [[Slides]()]|Dynamic Bayesian networks<br>Coupled and factor HMMs|None|
+|**Lecture - 13:<br>Discriminative Graphical Models**<br>[[Video]()] [[Slides]()]|Conditional random fields<br>Continuous and fully-connected<br>CRFs|None|
+|**Lecture - 14:<br>Neural Generative Models**<br>[[Video]()] [[Slides]()]|Variational Auto-Encoder<br>Generative Adversarial Networks|None|
+|**Lecture - 15:<br>Reinforcement Learning**<br>[[Video]()] [[Slides]()]|Markov decision process<br>Q learning and policy gradients|None|
+|**Lecture - 16:<br>Multimodal RL**<br>[[Video]()] [[Slides]()]|Deep Q learning<br>Multimodal applications|None|
+|**Lecture - 17:<br>Fusion and Co-Learning**<br>[[Video]()] [[Slides]()]|Multi-kernel learning and fusion<br>Few shot learning and co-learning|None|
+|**Lecture - 18:<br>New Research Directions**<br>[[Video]()] [[Slides]()]|Recent approaches in multimodal ML|None|
+|**Lecture - 19:<br>Embodied Language Grounding**<br>[[Video]()] [[Slides]()]|Connecting language to action<br>Guest lecture by Yonatan Bisk|None|
+|**Lecture - 20:<br>Multi-Lingual Representations**<br>[[Video]()] [[Slides]()]|Tentative topic<br>Guest lecture, to be confirmed|None|
+|**Lecture - 21:<br>Learning to Connect Text and Images**<br>[[Video]()] [[Slides]()]|Discourse approaches, text & images<br>Guest lecture by Malihe Alikhani|None|
+|**Lecture - 22:<br>Bias and Fairness**<br>[[Video]()] [[Slides]()]|Computational ethics<br>Guest lecture by Yulia Tsvetkov|None|
 
