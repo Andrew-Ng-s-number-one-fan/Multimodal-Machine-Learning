@@ -15,9 +15,9 @@
 |**Lecture - 06:<br>Language Unimodal Representations**<br>[[Video](https://youtu.be/XVHN0izviAw)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kf5xck15qhe1vu)]|Gated networks and LSTM<br>Backpropagation through time|[Visualizing and Understanding RNNs](https://arxiv.org/pdf/1506.02078.pdf)<br>[How Language Models Use Context](https://arxiv.org/pdf/1805.04623.pdf)|
 |**Lecture - 07:<br>Multimodal Representation Learning**<br>[[Video](https://youtu.be/37z_tJD81y8)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfd7o5btebo2t3)]|Multimodal auto-encoders<br>Multimodal joint representations|None|
 |**Lecture - 08:<br>Coordinated Representations**<br>[[Video](https://youtu.be/2_dZ5GBlRgU)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kffu66nwuf84p8)]|Deep canonical correlation analysis<br>Non-negative matrix factorization|None|
-|**Lecture - 09:<br>Multimodal Alignment**<br>[Video] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmxwo95eyz2ck)]|Explicit - dynamic time warping<br>Implicit - attention models|None|
-|**Lecture - 10:<br>Structured Representations**<br>[Video] [Slides]|Module networks<br>Tree-based and stack models|None|
-|**Lecture - 11:<br>Alignment and Representation**<br>[Video] [Slides]|Multi-head attention<br>Multimodal transformers|None|
+|**Lecture - 09:<br>Multimodal Alignment**<br>[[Video](https://www.youtube.com/watch?v=4P4qBBxpthg)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfmxwo95eyz2ck)]|Explicit - dynamic time warping<br>Implicit - attention models|None|
+|**Lecture - 10:<br>Alignment and Representation**<br>[[Video](https://www.youtube.com/watch?v=xcOMHwjNLaA)] [[Slides](https://piazza.com/class_profile/get_resource/kcnr11wq24q6z7/kfpy1gk9j6p39h)]|Multi-head attention<br>Multimodal transformers|None|
+|**Lecture - 11:<br>Alignment and Translation**<br>[Video] [Slides]|Module networks<br>Tree-based and stack models|None|
 |**Lecture - 12:<br>Probabilistic Graphical Models**<br>[Video] [Slides]|Dynamic Bayesian networks<br>Coupled and factor HMMs|None|
 |**Lecture - 13:<br>Discriminative Graphical Models**<br>[Video] [Slides]|Conditional random fields<br>Continuous and fully-connected<br>CRFs|None|
 |**Lecture - 14:<br>Neural Generative Models**<br>[Video] [Slides]|Variational Auto-Encoder<br>Generative Adversarial Networks|None|
